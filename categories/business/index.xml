@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>business on blog.mulus.dev</title>
+    <link>https://blog.mulus.dev/categories/business/</link>
+    <description>Recent content in business on blog.mulus.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Oct 2021 15:08:01 +0000</lastBuildDate><atom:link href="https://blog.mulus.dev/categories/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain nelle aziende</title>
+      <link>https://blog.mulus.dev/posts/blockchain-nelle-aziende/</link>
+      <pubDate>Wed, 27 Oct 2021 15:08:01 +0000</pubDate>
+      
+      <guid>https://blog.mulus.dev/posts/blockchain-nelle-aziende/</guid>
+      <description>Blockchain Cos&amp;rsquo;è la Blockchain? Ci sono una miriade di articoli sul web dove viene spiegato cosa è questa tecnologia e tutti i suoi utilizzi, dal più famoso, Bitcoin, a tutti quelli su cui ora le più grandi aziende stanno lavorando (Eg. Paypal).
+Un esempio significativo Al momento del pagamento con il bancomat di un caffè al bar (in un mondo in cui sia normale farlo), la transazione non viene direttamente conteggiata sul conto, ma viene addebitata alcuni giorni dopo (si ok viene letta la disponibilità, ma nella lista delle transazione online viene vista dopo).</description>
+    </item>
+    
+  </channel>
+</rss>

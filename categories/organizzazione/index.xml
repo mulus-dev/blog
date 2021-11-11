@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>organizzazione on blog.mulus.dev</title>
+    <link>https://blog.mulus.dev/categories/organizzazione/</link>
+    <description>Recent content in organizzazione on blog.mulus.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Oct 2021 15:08:01 +0000</lastBuildDate><atom:link href="https://blog.mulus.dev/categories/organizzazione/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain nelle aziende</title>
+      <link>https://blog.mulus.dev/posts/blockchain-nelle-aziende/</link>
+      <pubDate>Wed, 27 Oct 2021 15:08:01 +0000</pubDate>
+      
+      <guid>https://blog.mulus.dev/posts/blockchain-nelle-aziende/</guid>
+      <description>Blockchain Cos&amp;rsquo;è la Blockchain? Ci sono una miriade di articoli sul web dove viene spiegato cosa è questa tecnologia e tutti i suoi utilizzi, dal più famoso, Bitcoin, a tutti quelli su cui ora le più grandi aziende stanno lavorando (Eg. Paypal).
+Un esempio significativo Al momento del pagamento con il bancomat di un caffè al bar (in un mondo in cui sia normale farlo), la transazione non viene direttamente conteggiata sul conto, ma viene addebitata alcuni giorni dopo (si ok viene letta la disponibilità, ma nella lista delle transazione online viene vista dopo).</description>
+    </item>
+    
+    <item>
+      <title>Su Cosa Sto Lavorando?</title>
+      <link>https://blog.mulus.dev/posts/su-cosa-sto-lavorando/</link>
+      <pubDate>Thu, 14 Oct 2021 15:38:40 +0000</pubDate>
+      
+      <guid>https://blog.mulus.dev/posts/su-cosa-sto-lavorando/</guid>
+      <description>Always a draft. Questo articolo viene aggiornato più o meno giornalmente e mostra le note, gli appunti e i link di su quello che sto lavorando. (Qualche appunto è in inglese, la maggior parte di lettura sulle cryptovalute lo è, perdonatemi.) Ah, e la data non è sempre aggiornata.
+Crypto tool:
+Come tenere tutte le crittovalute sotto controllo?
+  Crypto.com APP: utile, ma solo quelle all&amp;rsquo;interno dell&amp;rsquo;eco crypto, Daedalous lost?</description>
+    </item>
+    
+    <item>
+      <title>Perché questo blog?</title>
+      <link>https://blog.mulus.dev/posts/perch%C3%A9-questo-blog/</link>
+      <pubDate>Tue, 12 Oct 2021 08:38:22 +0000</pubDate>
+      
+      <guid>https://blog.mulus.dev/posts/perch%C3%A9-questo-blog/</guid>
+      <description>Voglia di cambiamento. Fine. No non è tutto qui, o meglio, si il motivo che mi ha spinto ad aprire questo blog, è proprio la voglia di cambiare, ma ecco due righe in più che, indipendentemente se qualcuno le leggerà, di certo aiutano me a fare chiarezza.
+Passato Fino ad oggi (ma un po’ ancora oggi), sono stato un consulente informatico per le PMI (Piccole e Medie Imprese, lo scrivo perché io ci sono arrivato molto tardi), in cui mi occupavo di tutto: dalla creazione delle caselle email, l’installazione dei vari programmi, pulizia di dati excel fino alla consulenza vera e propria, consigliare quale tecnologia o quale set di applicazioni utilizzare.</description>
+    </item>
+    
+  </channel>
+</rss>
